@@ -34,3 +34,6 @@ serve(async (req: Request) => {
     return new Response(`Error: ${err.message}`, { status: 500 });
   }
 });
+
+
+Add simple weather proxy for wttr.in
