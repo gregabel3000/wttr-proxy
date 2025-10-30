@@ -36,4 +36,4 @@ serve(async (req: Request) => {
 });
 
 
-Add simple weather proxy for wttr.in
+
